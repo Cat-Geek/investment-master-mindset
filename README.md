@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-3DA639?style=flat-square)
 ![Readme](https://img.shields.io/badge/Readme-%E5%AE%8C%E5%96%84-FF69B4?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square)
+[![Blog](https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-FF5722?style=flat-square)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODE3ODk4OQ==)
 
 > 收集整理世界顶级投资大师的思维框架与投资理念，构建你的投资认知体系
 
