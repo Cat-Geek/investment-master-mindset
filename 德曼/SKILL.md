@@ -274,4 +274,4 @@ source: 《宽客人生：华尔街的数量金融大师》本地语料
 > 本Skill基于《宽客人生：华尔街的数量金融大师》本地语料生成，共读取材约2000行内容
 
 > 本Skill由[女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)生成
-> 创建者：[花叔](https://x.com/AlchainHust)
+> 创建者：猫哥AI量化

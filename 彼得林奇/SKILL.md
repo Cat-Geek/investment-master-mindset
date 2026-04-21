@@ -332,5 +332,5 @@ source: 《战胜华尔街》完整笔记
 ---
 
 > 本Skill由[女娲·Skill造人术](https://github.com/alchaincyf/nuwa-skill)生成
-> 创建者：[花叔](https://x.com/AlchainHust)
+> 创建者：猫哥AI量化
 > 素材来源：《战胜华尔街》完整笔记
