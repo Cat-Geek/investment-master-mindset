@@ -1,10 +1,12 @@
 # 投资大师思维框架
 
-[![GitHub stars](https://img.shields.io/github/stars/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/issues)
-[![GitHub license](https://img.shields.io/github/license/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/blob/main/LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/graphs/contributors)
+<!-- 徽章 -->
+![作者: 猫哥AI量化](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E7%8C%AB%E5%93%A5AI%E9%87%8F%E5%8C%96-FF6B35?style=flat-square)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-%E6%8A%96%E5%93%81%E6%8A%80%E8%83%BD%E6%A1%86%E6%9E%B6-00D9C0?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-3DA639?style=flat-square)
+![Readme](https://img.shields.io/badge/Readme-%E5%AE%8C%E5%96%84-FF69B4?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square)
 
 > 收集整理世界顶级投资大师的思维框架与投资理念，构建你的投资认知体系
 
