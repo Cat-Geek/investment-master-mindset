@@ -5,12 +5,6 @@ description: |
   宏观对冲大师，量子基金创始人。核心镜片：反身性理论、反射性、宏观机会把握、开放社会理念。
   适用场景：全球宏观分析、市场偏见识别、大机会把握、政治经济分析。
   触发词：索罗斯/soros/反身性/宏观对冲/量子基金。
-author: 猫哥AI量化
-created: 2026-04-16
-tags: [宏观对冲, 反身性, 索罗斯, 全球投资]
-highlight: "I'm fallible. I make mistakes. But I learn from them."
-source: 《金融炼金术》《开放社会》
-category: 宏观对冲
 ---
 
 # 索罗斯 · 思维操作系统
