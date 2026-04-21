@@ -1,160 +1,75 @@
-# AI 量化思维武器库 / AI-Quant Mindset Arsenal
+# 投资大师思维框架
 
-> 汇聚顶级投资人/交易员的思维框架，让 AI 为你所用
+[![GitHub stars](https://img.shields.io/github/stars/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/issues)
+[![GitHub license](https://img.shields.io/github/license/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/blob/main/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/Cat-Geek/investment-master-mindset)](https://github.com/Cat-Geek/investment-master-mindset/graphs/contributors)
 
-[![Author](https://img.shields.io/badge/Author-%E7%8C%AB%E5%93%A5AI%E9%87%8F%E5%8C%96-FF6B6B?style=flat-square)](https://mp.weixin.qq.com/s/7k-4ZhC9KQK9kN5kj5R4Uw)
-[![License](https://img.shields.io/badge/License-Private-red?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+> 收集整理世界顶级投资大师的思维框架与投资理念，构建你的投资认知体系
+
+## 项目简介
+
+本项目系统性地整理了多位投资大师的思维框架、投资理念和实践方法论，帮助投资者建立正确的投资认知，提升投资决策质量。
+
+## 收录大师
+
+| 大师 | 风格 | 核心思想 |
+|------|------|----------|
+| 沃伦·巴菲特 | 价值投资 | 护城河理论、安全边际、集中投资 |
+| 本杰明·格雷厄姆 | 价值投资鼻祖 | 内在价值、市场先生、安全边际 |
+| 杰西·利弗莫尔 | 趋势交易 | 技术分析、突破交易、择时系统 |
+| 乔治·索罗斯 | 宏观对冲 | 反身性理论、反射性、哲学投资 |
+| 彼得·林奇 | 成长投资 | 十倍股理论、身边现象、长期持有 |
+| 吉姆·西蒙斯 | 量化交易 | 量化模型、短线套利、数据驱动 |
+| 迈克尔·德曼 | 量化大师 | 宽客思维、模型风险、金融工程 |
+| 炒股养家 | A股游资 | 龙头战法、情绪周期、仓位管理 |
+
+## 项目结构
+
+```
+投资大师思维框架/
+├── 巴菲特/              # 价值投资大师
+├── 格雷厄姆/             # 价值投资鼻祖
+├── 利弗莫尔/             # 趋势交易先驱
+├── 索罗斯/               # 宏观对冲大师
+├── 彼得林奇/             # 成长股投资
+├── 西蒙斯/               # 量化交易传奇
+├── 德曼/                 # 量化金融专家
+└── 炒股养家/             # A股游资代表
+```
+
+每个文件夹包含：
+- `SKILL.md` - 核心思维框架与理念
+- `references/` - 参考资料与文献
+
+## 思维框架特点
+
+- **巴菲特**: 长期持有优质企业，重视企业竞争优势
+- **格雷厄姆**: 强调分散投资，注重价值与价格的差距
+- **利弗莫尔**: 趋势跟随，等待关键点突破
+- **索罗斯**: 洞察市场偏见，把握宏观大机会
+- **彼得林奇**: 从生活发现投资机会，长期持有成长股
+- **西蒙斯**: 数学模型驱动，短线高频交易
+- **德曼**: 量化风险控制，避免模型失效
+- **炒股养家**: A股特色，龙头情绪周期
+
+## 使用说明
+
+1. **入门推荐**: 从巴菲特/格雷厄姆开始，建立价值投资基础
+2. **技术分析**: 学习利弗莫尔的趋势交易思维
+3. **宏观视角**: 理解索罗斯的反身性理论
+4. **成长投资**: 彼得林奇的十倍股逻辑
+5. **量化入门**: 西蒙斯和德曼的量化思维
+
+## 贡献指南
+
+欢迎补充和完善各投资大师的思维框架！请提交 Issue 或 Pull Request。
+
+## License
+
+MIT License - 自由使用，但请注明来源
 
 ---
 
-## 项目介绍
-
-本仓库收录了一系列基于全球顶级投资人、交易员、学者思维框架的 AI Skill（提示词模板）。
-
-**你能在这里找到：**
-
-- 巴菲特的价值投资思维
-- 索罗斯的反身性理论
-- 利弗莫尔的趋势交易心法
-- 西蒙斯的量化密码
-- 格雷厄姆的安全边际
-- 彼得·林奇的身边股法则
-- 德曼的物理学家宽客视角
-- 超级碗教练的临场智慧
-
-每一个 Skill 都经过深度调研提炼，旨在让 AI 能够**以特定人物的视角**回答问题、解析市场、辅助决策。
-
----
-
-## 目录结构
-
-```
-skills/
-├── warren-buffett-perspective/    # 巴菲特思维框架
-├── soros-perspective/              # 索罗斯思维框架
-├── livermore-perspective/          # 利弗莫尔思维框架
-├── simons-perspective/             # 西蒙斯思维框架
-├── graham-perspective/             # 格雷厄姆思维框架
-├── peter-lynch-perspective/        # 彼得·林奇思维框架
-├── emanuel-derman-perspective/      # 伊曼纽尔·德曼（物理学家宽客）
-└── chaoguyangjia-perspective/      # 炒股养家（A股游资）思维框架
-```
-
-每个 Skill 包含：
-
-| 文件/目录 | 说明 |
-|-----------|------|
-| `SKILL.md` | 核心提示词模板 |
-| `references/` | 调研参考文献 |
-| `scripts/` | 相关脚本或工具 |
-
----
-
-## 核心功能
-
-### 1. 思维框架切换
-
-激活任一 Skill 后，AI 将以对应人物的视角、语气、逻辑回应。
-
-**示例提示词：**
-```
-/soros
-帮我分析当前人民币汇率是否存在不可持续性
-```
-
-```
-/buffett
-这家公司值不值得长期持有
-```
-
-### 2. 投资决策辅助
-
-利用不同视角交叉分析同一问题，突破单一思维局限。
-
-### 3. 学习经典智慧
-
-每个 Skill 都基于一手来源（书籍、访谈、年报等）深度调研，附带参考文献。
-
----
-
-## 人物框架一览
-
-| 人物 | 核心思维 | 适用场景 |
-|------|---------|---------|
-| **沃伦·巴菲特** | 价值投资、安全边际、护城河 | 选股、长期投资、企业估值 |
-| **乔治·索罗斯** | 反身性、繁荣-衰退、不对称风险 | 宏观分析、货币、趋势拐点 |
-| **杰西·利弗莫尔** | 最小阻力路线、关键点突破、时间要素 | 趋势交易、择时、止损 |
-| **詹姆斯·西蒙斯** | 量化模型、统计套利、机构化运作 | 量化策略、数学模型 |
-| **本杰明·格雷厄姆** | 安全边际、Mr. Market、分散投资 | 价值投资入门、风险控制 |
-| **彼得·林奇** | 身边股、低估值、长期持有 | 中小盘选股、个人投资者 |
-| **伊曼纽尔·德曼** | 模型局限性、物理学家思维 | 金融建模、风险评估 |
-| **炒股养家** | 大局观、情绪周期、弱水三千只取一瓢 | A股短线、游资思维、仓位管理 |
-
----
-
-## 使用方法
-
-### 1. 导入 Skill
-
-将对应文件夹内容导入你的 AI 工具（如 Claude Code）：
-
-```bash
-# 克隆仓库
-git clone https://github.com/Cat-Geek/ai-quant-mindset-arsenal.git
-```
-
-### 2. 激活框架
-
-在对话中使用斜杠命令激活对应思维框架：
-
-```
-/buffett    # 切换到巴菲特视角
-/soros      # 切换到索罗斯视角
-/livermore  # 切换到利弗莫尔视角
-```
-
-### 3. 提问并获取分析
-
-```
-/buffett
-帮我看看贵州茅台现在的估值是否合理
-```
-
----
-
-## 关于作者
-
-**猫哥AI量化**
-
-- 公众号：**猫哥AI量化**
-- 专注于 AI 与量化交易的交叉领域
-- 分享投资思维框架、量化策略、工具实操
-
-> 对 AI 和量化感兴趣的朋友，欢迎关注公众号「猫哥AI量化」
-> 回复「资料」获取免费入门资源
-
----
-
-## 致谢
-
-本项目的思维框架来自以下一手来源：
-
-- 巴菲特历年致股东信
-- 索罗斯《金融炼金术》
-- 利弗莫尔《股票大作手操盘术》
-- 西蒙斯访谈与研究论文
-- 格雷厄姆《聪明的投资者》
-- 彼得·林奇《战胜华尔街》
-- 德曼《My Life as a Quant》
-
----
-
-## 免责声明
-
-本项目仅供学习和研究之用，不构成任何投资建议。
-
-投资有风险，决策需谨慎。
-
----
-
-*如果你觉得这个项目对你有帮助，欢迎 Star 让更多人看到*
+> "投资本质上是认知的变现。" —— 未知
