@@ -267,16 +267,70 @@
 
 ## 快速上手
 
-### 新手入门路径
+### 安装方式
+
+**方式一：通过 skills.sh 一键安装**
+
+每个大师都是独立的 Skill，可以单独安装：
+
+```bash
+# 巴菲特
+npx skills add Cat-Geek/investment-master-mindset/巴菲特
+
+# 格雷厄姆
+npx skills add Cat-Geek/investment-master-mindset/格雷厄姆
+
+# 利弗莫尔
+npx skills add Cat-Geek/investment-master-mindset/利弗莫尔
+
+# 索罗斯
+npx skills add Cat-Geek/investment-master-mindset/索罗斯
+
+# 彼得林奇
+npx skills add Cat-Geek/investment-master-mindset/彼得林奇
+
+# 西蒙斯
+npx skills add Cat-Geek/investment-master-mindset/西蒙斯
+
+# 德曼
+npx skills add Cat-Geek/investment-master-mindset/德曼
+
+# 炒股养家
+npx skills add Cat-Geek/investment-master-mindset/炒股养家
+```
+
+**方式二：克隆项目到本地**
+
+```bash
+# 克隆整个项目
+git clone https://github.com/Cat-Geek/investment-master-mindset.git
+
+# 进入项目目录
+cd investment-master-mindset
+```
+
+### 使用方法
+
+安装或克隆后，在 Claude Code / OpenClaw 等 Agent 工具中，直接说：
 
 ```
-第1步 → 巴菲特/格雷厄姆    建立价值投资基础，理解"买股票就是买企业"
-第2步 → 利弗莫尔           理解趋势和择时，建立交易思维
-第3步 → 索罗斯             理解反身性和市场非理性
-第4步 → 彼得林奇           学会从生活中发现投资机会
-第5步 → 西蒙斯/德曼        理解量化思维和风险控制
-第6步 → 炒股养家           理解A股特色和情绪周期
+> 用巴菲特的视角帮我分析一下这个投资机会
+> 切换到索罗斯模式，分析当前市场
+> 如果是利弗莫尔，他会怎么处理这只股票
+> 站在炒股养家的角度，现在该不该进场
 ```
+
+Agent 会自动加载对应大师的思维框架，以该大师的视角和语气帮你分析问题。
+
+### 适用 Agent
+
+| Agent | 支持情况 |
+|-------|---------|
+| Claude Code | ✅ 完全支持 |
+| OpenClaw | ✅ 完全支持 |
+| Cursor | ✅ 完全支持 |
+| Windsurf | ✅ 完全支持 |
+| 其他 Agent | ⚠️ 需确认是否支持 skills.sh 协议 |
 
 ### 使用建议
 
