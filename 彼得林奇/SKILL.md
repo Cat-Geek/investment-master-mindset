@@ -2,7 +2,7 @@
 name: 彼得林奇
 description: |
   彼得·林奇投资思维框架 | 核心：身边股、低估值、长期持有、耐心至上 | 触发词：选股、股票投资、麦哲伦基金、华尔街
-author: 女娲Skill造人术
+author: 猫哥AI量化
 version: 1.1
 source: 《战胜华尔街》完整笔记
 ---
