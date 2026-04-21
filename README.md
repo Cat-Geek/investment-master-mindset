@@ -302,7 +302,7 @@
 
 | 平台 | 链接 |
 |------|------|
-| 公众号 | 猫哥 AI量化 |
+| 公众号 | 猫哥AI量化 |
 | GitHub | [@Cat-Geek](https://github.com/Cat-Geek) |
 
 ---
@@ -313,6 +313,6 @@
 
 <br>
 
-MIT License © [猫哥 AI量化](https://github.com/Cat-Geek)
+MIT License © [猫哥AI量化](https://github.com/Cat-Geek)
 
 </div>
