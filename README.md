@@ -1,12 +1,10 @@
 # 投资大师思维框架
 
 <!-- 徽章 -->
-![作者: 猫哥AI量化](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E7%8C%AB%E5%93%A5AI%E9%87%8F%E5%8C%96-FF6B35?style=flat-square)
-![Agent Skills](https://img.shields.io/badge/Agent%20Skills-%E6%8A%96%E5%93%81%E6%8A%80%E8%83%BD%E6%A1%86%E6%9E%B6-00D9C0?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-3DA639?style=flat-square)
-![Readme](https://img.shields.io/badge/Readme-%E5%AE%8C%E5%96%84-FF69B4?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![作者: 猫哥AI量化](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E7%8C%AB%E5%93%A5AI%E9%87%8F%E5%8C%96-FF6B35?style=flat-square)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODE3ODk4OQ==)
 [![Blog](https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-FF5722?style=flat-square)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODE3ODk4OQ==)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Cat-Geek/investment-master-mindset)
 
 > 收集整理世界顶级投资大师的思维框架与投资理念，构建你的投资认知体系
 
