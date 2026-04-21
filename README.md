@@ -2,7 +2,6 @@
 
 <!-- 徽章 -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![作者: 猫哥AI量化](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E7%8C%AB%E5%93%A5AI%E9%87%8F%E5%8C%96-FF6B35?style=flat-square)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODE3ODk4OQ==)
 [![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%8C%AB%E5%93%A5AI%E9%87%8F%E5%8C%96-FF5722?style=flat-square)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODE3ODk4OQ==)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Cat-Geek/investment-master-mindset)
 
